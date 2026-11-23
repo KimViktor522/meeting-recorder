@@ -1,0 +1,7 @@
+"""Сведения о программе. Поля автора заполните перед публикацией."""
+APP_NAME = "Meeting Recorder"
+VERSION = "1.2.0"
+AUTHOR = "Viktor Kim"
+CONTACT = "https://github.com/KimViktor522"
+URL = "https://github.com/KimViktor522/meeting-recorder"
+LICENSE = "MIT"

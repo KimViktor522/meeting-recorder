@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+build/
+dist/
+installer_out/
+*.spec.bak
+.project-flow/
+recordings/
+*.log
+config.local.json
+ffmpeg.exe
+*.spec
